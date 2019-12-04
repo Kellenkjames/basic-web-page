@@ -179,6 +179,7 @@ a.social:hover {
 
 .gallery li {
   list-style-type: none;
+  margin-bottom: 2em;
 }
 
 /* Styles for larger screens */
