@@ -179,8 +179,12 @@ a.social:hover {
 
 .gallery li {
   list-style-type: none;
+}
+
+.gallery li:not(.no-margin-bottom) {
   margin-bottom: 2em;
 }
+
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
