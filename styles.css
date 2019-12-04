@@ -173,6 +173,10 @@ a.social:hover {
 }
 
 /* Photo Gallery */
+.gallery .flex {
+  flex-wrap: wrap;
+}
+
 .gallery li {
   list-style-type: none;
 }
