@@ -21,7 +21,7 @@ a:hover {
   color: #6633ff;
 }
 
-/* Blockquote */
+/* General */
 blockquote {
   margin: 0;
 }
@@ -170,6 +170,11 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+
+/* Photo Gallery */
+.gallery li {
+  list-style-type: none;
 }
 
 /* Styles for larger screens */
