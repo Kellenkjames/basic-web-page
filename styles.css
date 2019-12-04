@@ -21,6 +21,11 @@ a:hover {
   color: #6633ff;
 }
 
+/* Blockquote */
+blockquote {
+  margin: 0;
+}
+
 /* Section Styles */
 
 .main-nav {
