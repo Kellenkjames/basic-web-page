@@ -178,11 +178,19 @@ a.social:hover {
 }
 
 .gallery li {
+  position: relative;
   list-style-type: none;
 }
 
 .gallery li:not(.no-margin-bottom) {
   margin-bottom: 2em;
+}
+
+.gallery li p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 
